@@ -26,11 +26,11 @@ function Chat() {
             Send Message
           </button>
         </form>
-        <dic className="chat__inputIcons">
+        <div className="chat__inputIcons">
           <CardGiftcard fontSize="large" />
           <Gif fontSize="large" />
           <EmojiEmotions fontSize="large" />
-        </dic>
+        </div>
       </div>
     </div>
   );
