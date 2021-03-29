@@ -3,7 +3,7 @@
     flex-direction: column;
     flex: 0.75;
     background-color: #363a3f;
-    height: 100bh;
+    /* height: 600px; */
 }
 
 .chat__messages{
@@ -20,7 +20,6 @@
     margin: 20px;
     border-top:1px solid gray;
     background-color: #424b53;
-    /* width: 100%; */
 
 }
 
